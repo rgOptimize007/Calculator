@@ -544,8 +544,8 @@ public class Calculator {
             case "Colored":
                 window.getContentPane().setBackground(null);
                 btnC.setBackground(Color.RED);
-                btnBack.setBackground(Color.ORANGE);
-                btnMod.setBackground(Color.GREEN);
+                btnBack.setBackground(Color.RED);
+                btnMod.setBackground(Color.RED);
                 btnDiv.setBackground(Color.PINK);
                 btnMul.setBackground(Color.PINK);
                 btnSub.setBackground(Color.PINK);
